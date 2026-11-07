@@ -33,8 +33,4 @@ This is a lightweight reproduction rather than a compute-matched reproduction of
 
 ## Data and outputs
 
-The notebook uses CIFAR-10 and asks torchvision to download it under `./data`. Generated checkpoints or other run artifacts are not committed by this cleanup. See the reproducibility notes before comparing runs.
-
-## Notes
-
-The notebook is deliberately preserved as the source of truth in this cleanup. No algorithmic changes have been made to its cells.
+The notebook uses CIFAR-10 and asks torchvision to download it under `./data`. 
